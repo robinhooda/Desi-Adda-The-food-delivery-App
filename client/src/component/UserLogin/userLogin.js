@@ -94,7 +94,7 @@ class SignIn extends Component {
               </div>
             </div>
             <div id="footer2">
-              <p>&#169; 2019 Go Eats Inc.</p>
+              <p>&#169; 2019 Desi Adda Inc.</p>
             </div>
           </div>
         ) : (
