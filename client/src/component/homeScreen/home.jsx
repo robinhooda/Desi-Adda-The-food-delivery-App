@@ -1,11 +1,12 @@
 import React from 'react';
-
+import logo from '../../images/logo.PNG';
+import './home.css';
 class home extends React.Component{
 
  render(){
      return(
           <div className="home">
-          <h1>Hello</h1>
+          <img className="logo" src={logo} alt="logo" height="20%" width="30%"/>
           </div>
      );
  }
